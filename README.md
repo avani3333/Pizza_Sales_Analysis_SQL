@@ -6,7 +6,7 @@ This analysis provides a detailed overview of pizza sales data. It helps stakeho
 
 ### Dataset Overview
 
-The dataset used for this project contains various types of pizza sales data, including:
+The dataset used for this project contains various types of pizza sales data, including:          
 ![Screenshot 2024-07-16 170614](https://github.com/user-attachments/assets/d2808f2b-9863-419a-b282-afe29ec347ab)
 
 - **Order Details**: Information about individual pizza orders, including quantities and prices.
